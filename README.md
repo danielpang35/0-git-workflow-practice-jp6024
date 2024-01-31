@@ -18,3 +18,6 @@ Nicole Luzuriaga: It's fascinating how game development, even at a beginner leve
 
 Eleazar Neri: I found this article to be incredibly informative. As someone with little to no experience in game development, the author’s clear explanations and practical insights have piqued my interest. I especially appreciate that the author provides an abundance of resources for those looking to learn more. 
 
+=======
+
+Nicholas Meng: I like this article because it really does a good job of illustrating how games are quite complex in terms of the code behind them. I thought it was really interesting how even the most simple games could help one improve their skills with algorithms and datastructures. I also liked that they emphasized a game developer's focus on user experience.
